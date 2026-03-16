@@ -238,11 +238,7 @@ Generování mezikroků zvyšuje pravděpodobnost správného výsledku.
 
 ❌ Bez principu
 ```text
-Vyřeš diferenciální rovnici:
-
-dy/dx = 2x · y
-
-Najdi obecné řešení.
+kolik je dy/dx = 2x · y
 ```
 
 vs
