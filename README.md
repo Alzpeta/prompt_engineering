@@ -205,6 +205,24 @@ Specifikace formátu snižuje variabilitu odpovědi a omezuje model
 
 Model pokračuje ve **vzoru textu**, který vidí.
 
+❌ Bez principu
+```text
+Urči sentiment této věty:
+
+"Ten film měl skvělé vizuální efekty, ale příběh byl nudný."
+```
+vs.
+
+```text
+Urči sentiment textu jako POSITIVE, NEGATIVE nebo MIXED.
+
+Text: "This restaurant is amazing, the food is fantastic."
+Sentiment: POSITIVE
+
+Text: "The product broke after two days."
+Sentiment: NEGATIVE
+```
+
 ------------------------------------------------------------------------
 
 ## 5. Chain of Thought
@@ -283,6 +301,21 @@ Pokud se model zeptáme *„proč je něco dobré“*, model obvykle předpoklá
 
 Pokud použijeme neutrální formulaci (*„je to dobré?“*), model nejprve
 **vyhodnotí pravdivost tvrzení** a teprve potom vysvětlí důvody.
+
+❌ Bez principu
+```text
+Proč umělá inteligence způsobí masovou nezaměstnanost?
+```
+
+vs
+
+```text
+Způsobí umělá inteligence masovou nezaměstnanost?
+
+Pokud ano, vysvětli proč.
+Pokud ne, vysvětli proč.
+Uveď argumenty obou stran.
+```
 
 ------
 
