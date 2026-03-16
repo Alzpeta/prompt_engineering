@@ -1,0 +1,39 @@
+Úvod
+
+Barvy si rády hrají. Když se potkají, mohou spolu vytvořit novou barvu. Je to trochu jako když mícháš dva džusy do jednoho kelímku. Najednou chutná jinak! S barvami je to stejné. Když je spojíš, objeví se překvapení.
+
+Představ si modelínu. Vezmeš kousek červené a kousek žluté. Mačkáš je dohromady v ruce. Najednou už nevidíš dvě barvy. Vznikne úplně nová! Barvy si spolu prostě rády hrají.
+
+Je to také jako se zmrzlinou nebo bonbony. Když dáš dvě příchutě do jedné mističky, vznikne nová dobrota. Stejně tak barvy. Smícháš dvě barvy a objeví se třetí. Pojďme se podívat, jaké kouzelné barvy mohou vzniknout.
+
+Seznam barevných kombinací
+
+🟥 Červená + 🟨 Žlutá → 🟧 Oranžová
+Oranžová je jako sladký pomeranč.
+
+🟨 Žlutá + 🟦 Modrá → 🟩 Zelená
+Zelená je jako tráva na hřišti.
+
+🟥 Červená + 🟦 Modrá → 🟪 Fialová
+Fialová je jako sladká švestka.
+
+🟥 Červená + ⬜ Bílá → 🩷 Růžová
+Růžová je jako jahodová zmrzlina.
+
+🟦 Modrá + ⬜ Bílá → 🩵 Světle modrá
+Světle modrá je jako letní obloha.
+
+🟨 Žlutá + ⬜ Bílá → 🟨 Světle žlutá
+Světle žlutá je jako vanilkový pudink.
+
+🟧 Oranžová + ⬜ Bílá → 🧡 Světle oranžová
+Světle oranžová je jako meruňkový džus.
+
+🟩 Zelená + ⬜ Bílá → 🟩 Světle zelená
+Světle zelená je jako mladý hrášek.
+
+🟪 Fialová + ⬜ Bílá → 🪻 Světle fialová
+Světle fialová je jako květ levandule.
+
+🟥 Červená + 🟩 Zelená → 🟫 Hnědá
+Hnědá je jako čokoládová sušenka.
