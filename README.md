@@ -162,6 +162,17 @@ generovat.
 Model během tréninku viděl mnoho textů různých profesí.\
 Definováním role aktivujeme odpovídající **jazykové vzory**.
 
+❌ Bez principu
+
+```text
+Jak funguje investování do akcií?
+```
+vs
+
+```text
+Jsi finanční poradce.
+Vysvětli začátečníkovi, jak funguje investování do akcií.
+```
 ------------------------------------------------------------------------
 
 ## 3. Specifikace formát výstupu
