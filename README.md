@@ -218,6 +218,33 @@ Model pokračuje ve **vzoru textu**, který vidí.
 
 Generování mezikroků zvyšuje pravděpodobnost správného výsledku.
 
+❌ Bez principu
+```text
+Vyřeš diferenciální rovnici:
+
+dy/dx = 2x · y
+
+Najdi obecné řešení.
+```
+
+vs
+
+```text
+Vyřeš diferenciální rovnici:
+
+dy/dx = 2x · y
+
+Postupuj následovně:
+1. Nejprve určete typ diferenciální rovnice.
+2. Uprav rovnici tak, aby bylo možné separovat proměnné.
+3. Integruj obě strany rovnice.
+4. Odvoď obecné řešení.
+5. Nakonec napiš výsledný tvar řešení.
+
+Postup vysvětli krok po kroku.
+```
+
+
 ------------------------------------------------------------------------
 
 ## 6. Iterace
