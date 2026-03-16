@@ -76,13 +76,13 @@ Pokud je text příliš dlouhý, starší části mohou z kontextu vypadnout.
 #### Kontextová okna vybraných LLM
 
 
-| Model | Poskytovatel | Kontextové okno | Poznámka |
-|---|---|---|---|
-| GPT-5.3 | OpenAI | 128 000 tokenů | běžný chat model používaný v ChatGPT |
-| GPT-5.3 Codex | OpenAI | 400 000 tokenů | model optimalizovaný pro programování |
-| Gemini 1.5 Pro | Google | až 2 000 000 tokenů | jeden z největších kontextů mezi LLM |
-| Gemini 1.5 Flash | Google | 1 000 000 tokenů | rychlejší a levnější varianta |
-| Llama 4 Scout | Meta | až 10 000 000 tokenů | experimentální extrémně dlouhý kontext |
+| Model | Kontext |
+|---|---|
+| GPT-5.3 Instant | 128k |
+| GPT-5.3-Codex | 400k |
+| GPT-5.4 | 1.05M |
+| Gemini 3.1 Pro | 1M |
+| Llama 4 Scout | 10M |
 
 1000 tokenů ≈ 650-750 slov
 
